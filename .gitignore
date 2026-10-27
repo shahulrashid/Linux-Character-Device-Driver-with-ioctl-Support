@@ -1,0 +1,12 @@
+# kernel build artefacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+.*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+# user-space binary
+test_app
